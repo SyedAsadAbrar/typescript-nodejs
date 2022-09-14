@@ -1,2 +1,3 @@
 # typescript-nodejs
-NodeJS server with typescript
+
+NodeJS (and Express) server with typescript
